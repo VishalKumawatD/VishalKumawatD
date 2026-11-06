@@ -59,13 +59,7 @@ Explore my repositories:
 
 ---
 
-## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VishalKumawatD&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VishalKumawatD&layout=compact&theme=tokyonight&hide_border=true)
-
----
 
 ## 🌐 Connect With Me
 
